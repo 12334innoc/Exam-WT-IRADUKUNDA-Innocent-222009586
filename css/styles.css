@@ -1,0 +1,32 @@
+<style>
+         .p1{
+            font-family: Elephant;
+            font-weight: bold;
+            font-size: 20px;
+            align-items: center;
+            background-color: rgb(166, 166, 198);
+        }
+        form{
+            width: 500px;
+            height:600px;
+        border: 2px solid rgb(223, 31, 31);
+        background-color: rgb(161, 161, 240);
+        color: white;
+        }
+        tr{
+            color: white;
+            font-size: 25px;
+        }
+        tr td{
+            font-size: 20px;
+            color:  white;
+            width: 300px;
+            height: 40px;
+        }
+          tr td input{
+            font-size: 20px;
+            color:  blue;
+            width: 300px;
+            height: 40px;
+        }
+        
